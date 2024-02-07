@@ -1,0 +1,176 @@
+/* Write your CSS here */
+.background-container {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 30px;
+}
+.card-container-top {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: 20vh;
+  padding: 20px;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+.heading-top-section {
+  font-family: 'Roboto';
+  font-size: 46px;
+  color: #475569;
+}
+.para-top-section {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 22px;
+}
+.para-top-span-style {
+  color: #0b69ff;
+}
+.card-container-middle {
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.small-card-container {
+  background-color: #ecfccb;
+  padding: 20px;
+  width: 28%;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #84cc16;
+}
+.image-wallet {
+  height: 80px;
+  width: 80px;
+  margin-right: 20px;
+}
+.ballance-para-card {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 20px;
+}
+.ballance-ruppes {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 800;
+  color: #475569;
+  align-self: flex-end;
+}
+.small-card-container-1 {
+  background-color: #cffafe;
+  padding: 20px;
+  width: 28%;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #06b6d4;
+}
+.small-card-container-2 {
+  background-color: #ede9fe;
+  padding: 20px;
+  width: 28%;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #7c3aed;
+}
+.card-container-bottom {
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.form-details-transaction {
+  width: 35%;
+
+  border: 1px solid #cbd5e1;
+  padding: 25px;
+  font-family: 'Roboto';
+  margin-top: 20px;
+  border-radius: 16px;
+}
+.transaction-para {
+  font-size: 26px;
+  font-weight: 800;
+  color: #1e293b;
+}
+.input-title {
+  height: 40px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #7e858e;
+  width: 185px;
+}
+.label-title {
+  font-family: 'Roboto';
+  color: #7e858e;
+}
+.container-amount-input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.select-option {
+  background-color: darkgoldenrod;
+  color: #ffffff;
+  opacity: none;
+}
+.input-select {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #1e293b;
+  height: 40px;
+  width: 185px;
+  border-radius: 5px;
+  border: 1px solid #7e858e;
+  outline: none;
+}
+.buttn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: Roboto;
+  padding: 5px;
+  border-width: 0px;
+  border-radius: 8px;
+  height: 40px;
+  width: 80px;
+  font-size: 18px;
+}
+.history-container {
+  width: 60%;
+  border: 1px solid #cbd5e1;
+  padding: 25px;
+  font-family: 'Roboto';
+  margin-top: 20px;
+  border-radius: 16px;
+}
+.history-para {
+  font-size: 26px;
+  font-weight: 800;
+  color: #1e293b;
+}
+.history-list-container {
+  font-family: 'Roboto';
+  font-size: 18px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 800;
+}
+.list-container {
+  padding-left: 25px;
+  font-family: 'Roboto';
+  font-size: 18px;
+  border: 1px solid #cbd5e1;
+  list-style-type: none;
+  border-bottom: none;
+  width: 100%;
+}
+.horizantal-line {
+  border: 2px solid #cbd5e1;
+  width: 100%;
+  padding-left: 0px;
+}

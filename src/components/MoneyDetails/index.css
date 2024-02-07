@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.card-container-middle {
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.small-card-container {
+  background-color: #ecfccb;
+  padding: 20px;
+  width: 28%;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #84cc16;
+}
+.image-wallet {
+  height: 80px;
+  width: 80px;
+  margin-right: 20px;
+}
+.ballance-para-card {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 20px;
+}
+.ballance-ruppes {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 800;
+  color: #475569;
+  align-self: flex-end;
+}
+.small-card-container-1 {
+  background-color: #cffafe;
+  padding: 20px;
+  width: 28%;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #06b6d4;
+}
+.small-card-container-2 {
+  background-color: #ede9fe;
+  padding: 20px;
+  width: 28%;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #7c3aed;
+}
